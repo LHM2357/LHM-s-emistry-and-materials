@@ -1,15 +1,18 @@
 # LHM-s-emistry-and-materials
 Research on energy production and storage systems and the creation of fundamental knowledge about materials
 
-에너지의 생산과 저장에 대한 연구를 진행하고 있으며 앞으로도 진행할 예정입니다. 그 동안은 에너지의 저장에 초점을 맞춰 연구를 진행하였으며 그 중에서도 배터리 시스템에 대한 연구를 진행해왔습니다.
-1. 리튬 이온 배터리용 양쪽성 촉매 연구
-2. 수계 아연 이온 배터리의 아연 분말 음극의 활물질 개선에 대한 연구
-3. 수계 아연 이온 배터리의 아연 분말 음극용 바인더에 대한 연구 및 활물질과 바인더의 시너지 효과에 대한 분석
-아연 이온 배터리에 대한 두 가지 연구는 현재 진행 중인 연구이며 2025년 6월 말까지 진행할 예정입니다.
+I have been conducting research on energy production and storage systems, and I plan to continue this work in the future. So far, my research has focused on energy storage, particularly on battery systems. My research topics include:
 
-이후 진행할 연구분야는 이전과 다르게 수소연료전지 분야가 주를 이룰 것입니다.
-1. 수소 생산 및 저장 효율을 높이기 위한 연구
-2. 수소 연료 전지에서 에너지가 생성되는 반응의 효율을 높이기 위한 연구
-3. microdroplet을 수소 연료 전지 분야에 적용하기 위한 연구
+1.	Study of bifunctional catalysts for lithium-ion batteries
+2.	Comparative study on the performance of zinc powder anodes based on the degree of HER inhibitor coating on the zinc powder surface and analysis of the underlying causes
+3.	Research on binders for zinc powder anodes and analysis of the synergistic effects between active materials and binders
 
-이것이 제가 지금까지 해온 연구와 진행 중인 연구이며 앞으로 진행할 연구에 대한 계획입니다.
+These two studies on aqueous zinc-ion batteries are currently ongoing and are expected to continue until the end of June 2025.
+
+In the future, my research will shift to focus on hydrogen fuel cells, which will differ from my previous work. The planned topics include:
+
+1.	Research to enhance hydrogen production and storage efficiency
+2.	Research to improve the efficiency of energy-generating reactions in hydrogen fuel cells
+3.	Research on the application of microdroplets to hydrogen fuel cells
+
+This outlines the research I have conducted so far, my ongoing projects, and my plans for future research.
