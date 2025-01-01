@@ -1,6 +1,8 @@
 # LHM-s-emistry-and-materials
 Research on energy production and storage systems and the creation of fundamental knowledge about materials
 
+
+
 I have been conducting research on energy production and storage systems, and I plan to continue this work in the future. So far, my research has focused on energy storage, particularly on battery systems. My research topics include:
 
 1.	Study of bifunctional catalysts for lithium-ion batteries
